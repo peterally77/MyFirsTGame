@@ -229,16 +229,27 @@ acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 6/15" group-title="FORMULA 1", DAZN F1 --> ELCANO Javi
 acestream://6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 MULTISTREAM" group-title="FORMULA 1", DAZN F1 --> MULTISTREAM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 MULTISOURCE" group-title="Formula 1 MS", DAZN F1 --> MULTISOURCE 16/6
 acestream://6422e8bc34282871634c81947be093c04ad1bb29
-acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
-acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
-acestream://d6281d4e6310269b416180442a470d23a4a99dc9
-acestream://d8068894248c1f21eea31e538917276a8c49ec06
-acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790
-acestream://515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 MULTISOURCE" group-title="Formula 1 MS", DAZN F1 --> MULTISOURCE 16/6
+acestream://6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 MULTISOURCE" group-title="Formula 1 MS", DAZN F1 --> MULTISOURCE 16/6
 acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 MULTISOURCE" group-title="Formula 1 MS", DAZN F1 --> MULTISOURCE 16/6
+acestream://515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 MULTISOURCE" group-title="Formula 1 MS", DAZN F1 --> MULTISOURCE 16/6
+acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 MULTISOURCE" group-title="Formula 1 MS", DAZN F1 --> MULTISOURCE 16/6
+acestream://d8068894248c1f21eea31e538917276a8c49ec06
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 MULTISOURCE" group-title="Formula 1 MS", DAZN F1 --> MULTISOURCE 16/6
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 MULTISOURCE" group-title="Formula 1 MS", DAZN F1 --> MULTISOURCE 16/6
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 MULTISOURCE" group-title="Formula 1 MS", DAZN F1 --> MULTISOURCE 16/6
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 6/15" group-title="FORMULA 1", DAZN F1 --> ELCANO Javi
+acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 6/15" group-title="FORMULA 1", DAZN F1 --> ELCANO Javi
 acestream://6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION FHD --> NEW ERA
 acestream://fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3
