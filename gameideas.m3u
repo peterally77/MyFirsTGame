@@ -435,7 +435,19 @@ acestream://999db87cb68b0a671d61a858da7d79dd97b0c0a4
 acestream://a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC Fight Pass --> NEW ERA
 acestream://0ce88d9e7273fddbc9b49f578b6b255513697139
-#EXTINF:-1 tvg-logo="Outlander.png" tvg-id="" group-title="PELICULAS", Outlander Capitulo 9 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/peterally77/MyFirsTGame/refs/heads/main/Outlander.png" tvg-id="" group-title="Peliculas", Outlander Capitulo 9 
 acestream://181419c344c6a3e86d9512f14b6b14e2802d3a49
-#EXTINF:-1 tvg-logo="Outlander.png" tvg-id="" group-title="PELICULAS", Outlander Capitulo 10 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/peterally77/MyFirsTGame/refs/heads/main/Outlander.png" tvg-id="" group-title="Peliculas", Outlander Capitulo 10 
 acestream://19dedc23dcea105d776a0c2fb7fbb06c710cd45e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/peterally77/MyFirsTGame/refs/heads/main/Outlander.png" tvg-id="" group-title="Peliculas", Outlander Capitulo 11 
+acestream://4030ad4271e5d2ae2fc182e7d0fe25ae9e3fa2de
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/peterally77/MyFirsTGame/refs/heads/main/Outlander.png" tvg-id="" group-title="Peliculas", Outlander Capitulo 12 
+acestream://fc04a6940eed318c89dc6ff8374b4bd0583e744c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/peterally77/MyFirsTGame/refs/heads/main/Outlander.png" tvg-id="" group-title="Peliculas", Outlander Capitulo 13
+acestream://36be3720a3496365053ba0f4ca25526aebf65ded
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/peterally77/MyFirsTGame/refs/heads/main/Outlander.png" tvg-id="" group-title="Peliculas", Outlander Capitulo 14
+acestream://07139da3154cf100f3503f8f22fd87be9330e30e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/peterally77/MyFirsTGame/refs/heads/main/Outlander.png" tvg-id="" group-title="Peliculas", Outlander Capitulo 15
+acestream://b4b3c60fa0ffc115601bb4f0162cfb458607e5fa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/peterally77/MyFirsTGame/refs/heads/main/Outlander.png" tvg-id="" group-title="Peliculas", Outlander Capitulo 16
+acestream://a945957d81b3467914e0302daaa8f92b0da58944
