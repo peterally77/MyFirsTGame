@@ -10,44 +10,50 @@ acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/comedia-por-movistar-plus-es.png" tvg-id="M+ Comedia HD" group-title="MOVISTAR", MOVISTAR COMEDIA FHD --> NEW ERA II
 acestream://4879825ab2491980e93ea2d8c4d02e095eacf670
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA
-acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#MovistarDeportes
+    #MovistarDeportes I
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA
-acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA 24/08
+        acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA
-acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA 24/08
+        acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA 
-acestream://67a33c3f74956eed14b9b400523462fe362e0e66
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA 24/08
+        acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA 
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA 24/08
+        acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA 
-acestream://3a74d9869b13e763476800740c6625e715a39879
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> ELCANO 24/08
+        acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA 
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES SD --> ELCANO 24/08
+        acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD --> NEW ERA
-acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
+    #MovistarDeportes II
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD --> ELCANO
-acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD --> NEW ERA
+        acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 SD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 SD --> ELCANO
-acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD --> ELCANO
+        acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR", MOVISTAR DEPORTES 3 FHD --> NEW ERA
-acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 SD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 SD --> ELCANO
+        acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR", MOVISTAR DEPORTES 3 FHD --> ELCANO
-acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
+    #MovistarDeportes III
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4" group-title="MOVISTAR", MOVISTAR DEPORTES 4 FHD --> NEW ERA
-acestream://58a4c880ab18486d914751db32a12760e74b75a4
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR", MOVISTAR DEPORTES 3 FHD --> NEW ERA
+        acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
+
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR", MOVISTAR DEPORTES 3 FHD --> ELCANO
+        acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
+
+    #MovistarDeportes IIII
+
+    #EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4" group-title="MOVISTAR", MOVISTAR DEPORTES 4 FHD --> NEW ERA
+    acestream://58a4c880ab18486d914751db32a12760e74b75a4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR", MOVISTAR DEPORTES 5 HD --> NEW ERA
 acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
