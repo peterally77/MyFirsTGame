@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=10000
 
 #Movistar 
     #MovistarTV
@@ -101,13 +101,6 @@
         acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 
     #MovistarLaLiga
-        #TVBar
-            #EXTINF:-1 tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", LALIGA BAR FHD --> ELCANO
-            acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-
-            #EXTINF:-1 tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", LALIGA BAR FHD --> ELCANO
-            acestream://94d34491106e00394835c8cb68aa94481339b53f
-
         #LaLiga1
             #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV MultiAudio HD" group-title="LA LIGA", M+ LALIGA Multi Audio --> ELCANO 23/08
             acestream://4b528d10eaad747ddf52251206177573ee3e9f74
