@@ -2,3 +2,17 @@
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD bb29 --> NEW ERA
 http://vlc.shickat.me:8000/pid/c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d/stream.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD 6034 --> NEW ERA VI
+http://vlc.shickat.me:8000/pid/07f2b92762cfff99bba785c2f5260c7934ca6034/stream.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD d85c --> NEW ERA VI
+http://vlc.shickat.me:8000/pid/c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c/stream.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 9947 --> ELCANO
+http://vlc.shickat.me:8000/pid/00c9bc9c5d7d87680a5a6bed349edfa775a89947/stream.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD bf1e --> ELCANO
+http://vlc.shickat.me:8000/pid/c9321006921967d6258df6945f1d598a5c0cbf1e/stream.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD 9f74 --> ELCANO
+http://vlc.shickat.me:8000/pid/4b528d10eaad747ddf52251206177573ee3e9f74/stream.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA SD ac58 --> ELCANO
+http://vlc.shickat.me:8000/pid/14b6cd8769cd485f2cffdca64be9698d9bfeac58/stream.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 468b --> NEW LOOP
+http://vlc.shickat.me:8000/pid/cc9b7f5fe416069a2110da0909b0f915043c468b/stream.mp4
