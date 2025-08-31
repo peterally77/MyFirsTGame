@@ -102,7 +102,7 @@
 
     #MovistarLaLiga
         #LaLiga1
-            #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV MultiAudio HD" group-title="LA LIGA", M+ LALIGA Multi Audio --> ELCANO 25/08
+            #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV MultiAudio HD" group-title="LA LIGA", M+ LALIGA --> ELCANO 31/08
             acestream://4b528d10eaad747ddf52251206177573ee3e9f74
 
             #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA --> ELCANO 25/08
@@ -110,6 +110,9 @@
 
             #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA --> ELCANO 25/08
             acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
+
+            #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA --> ELCANO 25/08
+            acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 
             #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA --> NEW ERA 25/08
             acestream://c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c
